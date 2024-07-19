@@ -1,2 +1,3 @@
 # sql-challenge
-in progress...
+project complete
+will finish with analysis
